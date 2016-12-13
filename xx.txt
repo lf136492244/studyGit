@@ -1,2 +1,0 @@
-giait is a version control system.
-git is free softwargit is a 
